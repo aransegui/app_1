@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PrpjetoFirebase</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="Login">LoginActivity</string>
+    <string name="Login_1">btnFazerLogin</string>
+    <string name="p_gina_inicial">Página Inicial</string>
+    <string name="todo">TODO</string>
+    <string name="fazer_login">Fazer Login</string>
+    <string name="n_o_tem_cadastro_clique_aqui">Não tem Cadastro Clique Aqui</string>
+    <string name="login">LOGIN</string>
+    <string name="email_usuario">E-MAIL</string>
+    <string name="senha">SENHA</string>
+    <string name="nome">Nome</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="gravar">Gravar</string>
+    <string name="masculino">Masculino</string>
+    <string name="aniversario">Aniversario</string>
+    <string name="confirmar_senha">Confirmar Senha</string>
+    <string name="feminino">Feminino</string>
+
+    <string name="cliente">Cliente</string>
+    <string name="profissional">Profissional</string>
+    <string name="cliente">Cliente</string>
+</resources>

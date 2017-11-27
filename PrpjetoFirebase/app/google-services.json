@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "335595184730",
+    "firebase_url": "https://mueappfirebase.firebaseio.com",
+    "project_id": "mueappfirebase",
+    "storage_bucket": "mueappfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335595184730:android:0bb24cf96a783d42",
+        "android_client_info": {
+          "package_name": "appservice.aransegui.br.prpjetofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335595184730-ejjegdm9hig19j8tkj55mj8te2aqua9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "appservice.aransegui.br.prpjetofirebase",
+            "certificate_hash": "89961ef6f054c305163d35e93afac775e083a3b6"
+          }
+        },
+        {
+          "client_id": "335595184730-fucic6g1iuvohchhu76dhmt53b6qsms8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsqhDMaIy5flShlhPCm6k0kVPRMK2AM0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335595184730-fucic6g1iuvohchhu76dhmt53b6qsms8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
